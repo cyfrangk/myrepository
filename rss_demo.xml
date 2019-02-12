@@ -1,0 +1,17 @@
+<rss version="2.0">
+<channel>
+<title>七麦数据</title>
+<link>https://www.qimai.cn</link>
+<description>七麦数据（原ASO100）- 专业移动推广数据分析平台 - ASO优化|ASM竞价广告|iOS|App Store|苹果应用商店|安卓市场|榜单</description>
+<item>
+<title>百度指数</title>
+<link>https://index.baidu.com</link>
+<description>以百度海量网民行为数据为基础的数据分享平台。在这里，你可以研究关键词搜索趋势、洞察网民需求变化、监测媒体舆情趋势、定位数字消费者特征；还可以从行业的角度，分析市场特点。</description>
+</item>
+<item>
+<title>阿里指数</title>
+<link>https://shu.taobao.com/</link>
+<description>阿里指数是阿里巴巴出品的基于大数据研究的社会化数据展示平台，媒体、市场研究员以及其他希望了解阿里巴巴大数据的人可以从这里 获取以阿里电商数据为核心的分析报告及相关地区与市场信息。基于阿 里大数据，我们面向媒体、机构和社会大众提供地域和行业角度指数化 的数据分析、数字新闻说明、社会热点专题发现，作为市场及行业研究 的参考、社会热点的了解。</description>
+</item>
+</channel>
+</rss>
